@@ -1,0 +1,40 @@
+{
+
+  "posts": [
+    {
+      "id": 1,
+      "username": "Elvitro12",
+      "password": "42358389"
+    },
+    {
+      "id": 2,
+      "username": "Dafi",
+      "password": "325324"
+          },
+    {
+      "id": 3,
+      "username": "Gumelar56",
+      "password": "563452"
+      },
+    {
+      "id": 4,
+      "username": "Ramadhan23",
+      "password": "6747463"      
+    },
+    {
+      "id": 5,
+      "username": "Agung",
+      "password": "597673"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
